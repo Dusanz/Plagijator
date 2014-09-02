@@ -1,0 +1,86 @@
+c:\users\dr.akul\documents\visual studio 2010\Projects\aspFileUploadStoreTag\aspFileUploadStoreTag\bin\aspFileUploadStoreTag.dll
+c:\users\dr.akul\documents\visual studio 2010\Projects\aspFileUploadStoreTag\aspFileUploadStoreTag\bin\aspFileUploadStoreTag.pdb
+c:\users\dr.akul\documents\visual studio 2010\Projects\aspFileUploadStoreTag\aspFileUploadStoreTag\obj\Debug\ResolveAssemblyReference.cache
+c:\users\dr.akul\documents\visual studio 2010\Projects\aspFileUploadStoreTag\aspFileUploadStoreTag\obj\Debug\aspFileUploadStoreTag.dll
+c:\users\dr.akul\documents\visual studio 2010\Projects\aspFileUploadStoreTag\aspFileUploadStoreTag\obj\Debug\aspFileUploadStoreTag.pdb
+C:\Users\DR.AKUL\Documents\Visual Studio 2010\Projects\aspFileUploadStoreTag\aspFileUploadStoreTag\bin\IKVM.OpenJDK.Core.dll
+C:\Users\DR.AKUL\Documents\Visual Studio 2010\Projects\aspFileUploadStoreTag\aspFileUploadStoreTag\bin\IKVM.OpenJDK.SwingAWT.dll
+C:\Users\DR.AKUL\Documents\Visual Studio 2010\Projects\aspFileUploadStoreTag\aspFileUploadStoreTag\bin\pdfbox-1.7.0.dll
+C:\Users\DR.AKUL\Documents\Visual Studio 2010\Projects\aspFileUploadStoreTag\aspFileUploadStoreTag\bin\IKVM.Runtime.dll
+C:\Users\DR.AKUL\Documents\Visual Studio 2010\Projects\aspFileUploadStoreTag\aspFileUploadStoreTag\bin\IKVM.OpenJDK.Util.dll
+C:\Users\DR.AKUL\Documents\Visual Studio 2010\Projects\aspFileUploadStoreTag\aspFileUploadStoreTag\bin\IKVM.OpenJDK.Text.dll
+C:\Users\DR.AKUL\Documents\Visual Studio 2010\Projects\aspFileUploadStoreTag\aspFileUploadStoreTag\bin\IKVM.OpenJDK.Security.dll
+C:\Users\DR.AKUL\Documents\Visual Studio 2010\Projects\aspFileUploadStoreTag\aspFileUploadStoreTag\bin\IKVM.OpenJDK.XML.API.dll
+C:\Users\DR.AKUL\Documents\Visual Studio 2010\Projects\aspFileUploadStoreTag\aspFileUploadStoreTag\bin\IKVM.OpenJDK.Beans.dll
+C:\Users\DR.AKUL\Documents\Visual Studio 2010\Projects\aspFileUploadStoreTag\aspFileUploadStoreTag\bin\IKVM.OpenJDK.Media.dll
+C:\Users\DR.AKUL\Documents\Visual Studio 2010\Projects\aspFileUploadStoreTag\aspFileUploadStoreTag\bin\IKVM.AWT.WinForms.dll
+C:\Users\DR.AKUL\Documents\Visual Studio 2010\Projects\aspFileUploadStoreTag\aspFileUploadStoreTag\bin\IKVM.OpenJDK.Charsets.dll
+C:\Users\DR.AKUL\Documents\Visual Studio 2010\Projects\aspFileUploadStoreTag\aspFileUploadStoreTag\bin\junit.dll
+C:\Users\DR.AKUL\Documents\Visual Studio 2010\Projects\aspFileUploadStoreTag\aspFileUploadStoreTag\bin\commons-logging.dll
+C:\Users\DR.AKUL\Documents\Visual Studio 2010\Projects\aspFileUploadStoreTag\aspFileUploadStoreTag\bin\fontbox-1.7.0.dll
+C:\Users\DR.AKUL\Documents\Visual Studio 2010\Projects\aspFileUploadStoreTag\aspFileUploadStoreTag\bin\jempbox-1.7.0.dll
+C:\Users\DR.AKUL\Documents\Visual Studio 2010\Projects\aspFileUploadStoreTag\aspFileUploadStoreTag\bin\bcmail-jdk15-1.44.dll
+C:\Users\DR.AKUL\Documents\Visual Studio 2010\Projects\aspFileUploadStoreTag\aspFileUploadStoreTag\bin\bcprov-jdk15-1.44.dll
+C:\Users\DR.AKUL\Documents\Visual Studio 2010\Projects\aspFileUploadStoreTag\aspFileUploadStoreTag\bin\icu4j-3.8.dll
+C:\Users\DR.AKUL\Documents\Visual Studio 2010\Projects\aspFileUploadStoreTag\aspFileUploadStoreTag\bin\IKVM.Runtime.JNI.dll
+C:\Users\DR.AKUL\Documents\Visual Studio 2010\Projects\aspFileUploadStoreTag\aspFileUploadStoreTag\bin\IKVM.OpenJDK.Management.dll
+C:\Users\DR.AKUL\Documents\Visual Studio 2010\Projects\aspFileUploadStoreTag\aspFileUploadStoreTag\bin\IKVM.OpenJDK.Naming.dll
+C:\Users\DR.AKUL\Documents\Visual Studio 2010\Projects\aspFileUploadStoreTag\aspFileUploadStoreTag\bin\IKVM.OpenJDK.Jdbc.dll
+C:\Users\DR.AKUL\Documents\Visual Studio 2010\Projects\aspFileUploadStoreTag\aspFileUploadStoreTag\bin\IKVM.OpenJDK.Remoting.dll
+C:\Users\DR.AKUL\Documents\Visual Studio 2010\Projects\aspFileUploadStoreTag\aspFileUploadStoreTag\bin\IKVM.OpenJDK.Corba.dll
+C:\Users\DR.AKUL\Documents\Visual Studio 2010\Projects\aspFileUploadStoreTag\aspFileUploadStoreTag\bin\IKVM.OpenJDK.Misc.dll
+C:\Users\Dusan\Documents\Visual Studio 2010\Projects\aspFileUploadStoreTag\aspFileUploadStoreTag\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Dusan\Documents\Visual Studio 2010\Projects\aspFileUploadStoreTag\aspFileUploadStoreTag\obj\Debug\aspFileUploadStoreTag.dll
+C:\Users\Dusan\Documents\Visual Studio 2010\Projects\aspFileUploadStoreTag\aspFileUploadStoreTag\obj\Debug\aspFileUploadStoreTag.pdb
+C:\Users\Dusan\Documents\Visual Studio 2010\Projects\aspFileUploadStoreTag\aspFileUploadStoreTag\bin\aspFileUploadStoreTag.dll
+C:\Users\Dusan\Documents\Visual Studio 2010\Projects\aspFileUploadStoreTag\aspFileUploadStoreTag\bin\aspFileUploadStoreTag.pdb
+C:\Users\Dusan\Documents\Visual Studio 2010\Projects\aspFileUploadStoreTag\aspFileUploadStoreTag\bin\IKVM.Runtime.dll
+C:\Users\Dusan\Documents\Visual Studio 2010\Projects\aspFileUploadStoreTag\aspFileUploadStoreTag\bin\IKVM.OpenJDK.Util.dll
+C:\Users\Dusan\Documents\Visual Studio 2010\Projects\aspFileUploadStoreTag\aspFileUploadStoreTag\bin\IKVM.OpenJDK.Text.dll
+C:\Users\Dusan\Documents\Visual Studio 2010\Projects\aspFileUploadStoreTag\aspFileUploadStoreTag\bin\IKVM.OpenJDK.Security.dll
+C:\Users\Dusan\Documents\Visual Studio 2010\Projects\aspFileUploadStoreTag\aspFileUploadStoreTag\bin\IKVM.OpenJDK.XML.API.dll
+C:\Users\Dusan\Documents\Visual Studio 2010\Projects\aspFileUploadStoreTag\aspFileUploadStoreTag\bin\IKVM.OpenJDK.Beans.dll
+C:\Users\Dusan\Documents\Visual Studio 2010\Projects\aspFileUploadStoreTag\aspFileUploadStoreTag\bin\IKVM.OpenJDK.Media.dll
+C:\Users\Dusan\Documents\Visual Studio 2010\Projects\aspFileUploadStoreTag\aspFileUploadStoreTag\bin\IKVM.AWT.WinForms.dll
+C:\Users\Dusan\Documents\Visual Studio 2010\Projects\aspFileUploadStoreTag\aspFileUploadStoreTag\bin\IKVM.OpenJDK.Charsets.dll
+C:\Users\Dusan\Documents\Visual Studio 2010\Projects\aspFileUploadStoreTag\aspFileUploadStoreTag\bin\junit.dll
+C:\Users\Dusan\Documents\Visual Studio 2010\Projects\aspFileUploadStoreTag\aspFileUploadStoreTag\bin\commons-logging.dll
+C:\Users\Dusan\Documents\Visual Studio 2010\Projects\aspFileUploadStoreTag\aspFileUploadStoreTag\bin\fontbox-1.7.0.dll
+C:\Users\Dusan\Documents\Visual Studio 2010\Projects\aspFileUploadStoreTag\aspFileUploadStoreTag\bin\jempbox-1.7.0.dll
+C:\Users\Dusan\Documents\Visual Studio 2010\Projects\aspFileUploadStoreTag\aspFileUploadStoreTag\bin\bcmail-jdk15-1.44.dll
+C:\Users\Dusan\Documents\Visual Studio 2010\Projects\aspFileUploadStoreTag\aspFileUploadStoreTag\bin\bcprov-jdk15-1.44.dll
+C:\Users\Dusan\Documents\Visual Studio 2010\Projects\aspFileUploadStoreTag\aspFileUploadStoreTag\bin\icu4j-3.8.dll
+C:\Users\Dusan\Documents\Visual Studio 2010\Projects\aspFileUploadStoreTag\aspFileUploadStoreTag\bin\IKVM.Runtime.JNI.dll
+C:\Users\Dusan\Documents\Visual Studio 2010\Projects\aspFileUploadStoreTag\aspFileUploadStoreTag\bin\IKVM.OpenJDK.Management.dll
+C:\Users\Dusan\Documents\Visual Studio 2010\Projects\aspFileUploadStoreTag\aspFileUploadStoreTag\bin\IKVM.OpenJDK.Naming.dll
+C:\Users\Dusan\Documents\Visual Studio 2010\Projects\aspFileUploadStoreTag\aspFileUploadStoreTag\bin\IKVM.OpenJDK.Jdbc.dll
+C:\Users\Dusan\Documents\Visual Studio 2010\Projects\aspFileUploadStoreTag\aspFileUploadStoreTag\bin\IKVM.OpenJDK.Remoting.dll
+C:\Users\Dusan\Documents\Visual Studio 2010\Projects\aspFileUploadStoreTag\aspFileUploadStoreTag\bin\IKVM.OpenJDK.Corba.dll
+C:\Users\Dusan\Documents\Visual Studio 2010\Projects\aspFileUploadStoreTag\aspFileUploadStoreTag\bin\IKVM.OpenJDK.Misc.dll
+C:\Users\Dusan\Desktop\PlagijatorFinder\aspFileUploadStoreTag\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Dusan\Desktop\PlagijatorFinder\aspFileUploadStoreTag\bin\aspFileUploadStoreTag.pdb
+C:\Users\Dusan\Desktop\PlagijatorFinder\aspFileUploadStoreTag\obj\Debug\aspFileUploadStoreTag.dll
+C:\Users\Dusan\Desktop\PlagijatorFinder\aspFileUploadStoreTag\obj\Debug\aspFileUploadStoreTag.pdb
+C:\Users\Dusan\Desktop\PlagijatorFinder\aspFileUploadStoreTag\bin\IKVM.Runtime.dll
+C:\Users\Dusan\Desktop\PlagijatorFinder\aspFileUploadStoreTag\bin\IKVM.OpenJDK.Util.dll
+C:\Users\Dusan\Desktop\PlagijatorFinder\aspFileUploadStoreTag\bin\IKVM.OpenJDK.Text.dll
+C:\Users\Dusan\Desktop\PlagijatorFinder\aspFileUploadStoreTag\bin\IKVM.OpenJDK.Security.dll
+C:\Users\Dusan\Desktop\PlagijatorFinder\aspFileUploadStoreTag\bin\IKVM.OpenJDK.XML.API.dll
+C:\Users\Dusan\Desktop\PlagijatorFinder\aspFileUploadStoreTag\bin\IKVM.OpenJDK.Beans.dll
+C:\Users\Dusan\Desktop\PlagijatorFinder\aspFileUploadStoreTag\bin\IKVM.OpenJDK.Media.dll
+C:\Users\Dusan\Desktop\PlagijatorFinder\aspFileUploadStoreTag\bin\IKVM.AWT.WinForms.dll
+C:\Users\Dusan\Desktop\PlagijatorFinder\aspFileUploadStoreTag\bin\IKVM.OpenJDK.Charsets.dll
+C:\Users\Dusan\Desktop\PlagijatorFinder\aspFileUploadStoreTag\bin\junit.dll
+C:\Users\Dusan\Desktop\PlagijatorFinder\aspFileUploadStoreTag\bin\commons-logging.dll
+C:\Users\Dusan\Desktop\PlagijatorFinder\aspFileUploadStoreTag\bin\fontbox-1.7.0.dll
+C:\Users\Dusan\Desktop\PlagijatorFinder\aspFileUploadStoreTag\bin\jempbox-1.7.0.dll
+C:\Users\Dusan\Desktop\PlagijatorFinder\aspFileUploadStoreTag\bin\bcmail-jdk15-1.44.dll
+C:\Users\Dusan\Desktop\PlagijatorFinder\aspFileUploadStoreTag\bin\bcprov-jdk15-1.44.dll
+C:\Users\Dusan\Desktop\PlagijatorFinder\aspFileUploadStoreTag\bin\icu4j-3.8.dll
+C:\Users\Dusan\Desktop\PlagijatorFinder\aspFileUploadStoreTag\bin\IKVM.Runtime.JNI.dll
+C:\Users\Dusan\Desktop\PlagijatorFinder\aspFileUploadStoreTag\bin\IKVM.OpenJDK.Management.dll
+C:\Users\Dusan\Desktop\PlagijatorFinder\aspFileUploadStoreTag\bin\IKVM.OpenJDK.Naming.dll
+C:\Users\Dusan\Desktop\PlagijatorFinder\aspFileUploadStoreTag\bin\IKVM.OpenJDK.Jdbc.dll
+C:\Users\Dusan\Desktop\PlagijatorFinder\aspFileUploadStoreTag\bin\IKVM.OpenJDK.Remoting.dll
+C:\Users\Dusan\Desktop\PlagijatorFinder\aspFileUploadStoreTag\bin\IKVM.OpenJDK.Corba.dll
+C:\Users\Dusan\Desktop\PlagijatorFinder\aspFileUploadStoreTag\bin\IKVM.OpenJDK.Misc.dll
